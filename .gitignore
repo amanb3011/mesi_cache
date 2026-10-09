@@ -1,0 +1,5 @@
+results/*
+!results/.gitkeep
+waves/*
+!waves/.gitkeep
+.DS_Store
